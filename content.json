@@ -1,0 +1,103 @@
+{
+  "site": {
+    "title": "Huy — Stories in motion",
+    "description": "Nguyễn Tiến Huy — Video Editor since 2021. Short-form, long-form & documentary storytelling. A personal collection of moving stories."
+  },
+  "navigation": {
+    "caption": "NGUYỄN TIẾN HUY<br>VIDEO EDITOR",
+    "work": { "vi": "Tác phẩm", "en": "Work" },
+    "about": { "vi": "Về tôi", "en": "About" },
+    "contact": { "vi": "Kết nối ↗", "en": "Say hello ↗" }
+  },
+  "hero": {
+    "eyebrow": "WELCOME TO MY EDITING ROOM",
+    "title": "Huy's <em>desktop.</em><br>A lot of stories.",
+    "description": {
+      "vi": "Short-form, long-form & documentary storytelling.",
+      "en": "Short-form, long-form & documentary storytelling."
+    }
+  },
+  "scene": {
+    "fallbackLabel": "HUY / EDIT SUITE",
+    "fallbackDescription": { "vi": "Một góc phòng dựng của tôi.", "en": "A little corner of my editing room." },
+    "label": "HUY'S EDIT SUITE",
+    "note": { "vi": "Câu chuyện bắt đầu ở đây.", "en": "This is where it starts." },
+    "instructions": { "vi": "CUỘN ĐỂ KHÁM PHÁ GÓC BÀN · KÉO ĐỂ XOAY", "en": "SCROLL TO REVEAL THE DESK · DRAG TO ROTATE" },
+    "timelineHint": { "vi": "Chạm timeline trong màn hình để tua.", "en": "Tap the timeline on the screen to scrub." },
+    "reset": { "vi": "Góc ban đầu ↺", "en": "Reset view ↺" },
+    "enter": { "vi": "Gặp Huy ↓", "en": "Meet Huy ↓" }
+  },
+  "about": {
+    "label": "01 — THE PERSON BEHIND THE CUT",
+    "greeting": { "vi": "CHÀO, TÔI LÀ HUY.", "en": "HEY, I'M HUY." },
+    "statementLine1": { "vi": "Từ những", "en": "From raw" },
+    "statementLine2": { "vi": "thước phim thô,", "en": "footage," },
+    "statementLine3": { "vi": "đến một", "en": "to something" },
+    "statementLine4": { "vi": "cảm xúc.", "en": "felt." },
+    "name": "Nguyễn Tiến Huy",
+    "roles": "Editor / Designer / Videographer",
+    "paragraph1": {
+      "vi": "Tôi làm nghề dựng phim từ năm 2021. Qua nhiều thể loại, điều tôi luôn tìm kiếm là nhịp điệu và cách kể khiến người xem muốn ở lại.",
+      "en": "I've been editing since 2021. Across different formats, I'm always looking for the rhythm and the story that make people want to stay."
+    },
+    "paragraph2": {
+      "vi": "Short video, long-form và documentary–storytelling là thế mạnh của tôi. Thiết kế và quay phim cho tôi thêm góc nhìn khi làm việc với hình ảnh.",
+      "en": "Short-form, long-form and documentary storytelling are my strengths. Design and videography bring another perspective to how I work with images."
+    },
+    "linkText": { "vi": "Một chút về công việc của tôi ↗", "en": "A little more about my work ↗" },
+    "linkUrl": "https://www.upwork.com/freelancers/~019d26d11d8a0f7aab?mp_source=share"
+  },
+  "work": {
+    "label": "02 — FOCUS & SELECTED WORK",
+    "hint": "SCROLL TO DISCOVER",
+    "title": "The <em>cutting</em><br>room.",
+    "description": { "vi": "Ba cách kể.<br>Cùng một sự chăm chút.", "en": "Three ways to tell a story.<br>The same attention to detail." },
+    "cards": {
+      "short": {
+        "label": "01 / SHORT-FORM",
+        "badge": "9:16",
+        "art": "<span>STOP.</span><span>WATCH.</span><span>FEEL.</span>",
+        "title": "Short-form",
+        "description": { "vi": "Ít thời gian.<br>Nhiều điều đọng lại.", "en": "Less time.<br>More to remember." }
+      },
+      "long": {
+        "label": "02 / LONG-FORM",
+        "badge": "ROOM TO DEVELOP",
+        "art": "<span>Stay</span><em>a little</em><span><i>longer.</i></span>",
+        "title": "Long-form",
+        "description": { "vi": "Thêm thời gian.<br>Thêm chiều sâu cho câu chuyện.", "en": "More time.<br>More room for the story." }
+      },
+      "documentary": {
+        "label": "03 / DOCUMENTARY",
+        "badge": "BEYOND THE FRAME",
+        "art": "<span>Once</span><em>upon</em><span>a <i>cut.</i></span>",
+        "title": "Documentary–<br>Storytelling Video",
+        "description": { "vi": "Người thật. Chuyện thật.<br>Kể bằng hình ảnh và cảm xúc.", "en": "Real people. Real stories.<br>Told through image and emotion." }
+      }
+    }
+  },
+  "archive": {
+    "label": "THE COLLECTION IS TAKING SHAPE",
+    "description": {
+      "vi": "Video chọn lọc đang được bổ sung.<br>Trong lúc đó, ghé xem công việc của tôi trên Behance.",
+      "en": "Selected films are on their way.<br>In the meantime, explore my work on Behance."
+    },
+    "linkText": "Open archive",
+    "linkUrl": "https://www.behance.net/magin4"
+  },
+  "contact": {
+    "label": "03 — YOUR STORY, NEXT.",
+    "availability": { "vi": "FREELANCE / CƠ HỘI CÔNG VIỆC", "en": "FREELANCE / CAREER OPPORTUNITIES" },
+    "question": { "vi": "Có một câu chuyện trong đầu?", "en": "Got a story in mind?" },
+    "callToAction": "Let's <em>talk.</em>",
+    "email": "milkwork.mp4@gmail.com",
+    "emailLink": "mailto:milkwork.mp4@gmail.com",
+    "note": { "vi": "Cám ơn rất nhiều vì đã xem hết :3.", "en": "Thanks for scrolling this far." }
+  },
+  "footer": {
+    "owner": "NGUYỄN TIẾN HUY",
+    "behanceUrl": "https://www.behance.net/magin4",
+    "upworkUrl": "https://www.upwork.com/freelancers/~019d26d11d8a0f7aab?mp_source=share",
+    "backToTop": { "vi": "VỀ ĐẦU ↑", "en": "BACK TO TOP ↑" }
+  }
+}
