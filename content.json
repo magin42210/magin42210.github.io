@@ -7,7 +7,7 @@
     "caption": "NGUYỄN TIẾN HUY<br>VIDEO EDITOR",
     "work": { "vi": "Tác phẩm", "en": "Work" },
     "about": { "vi": "Về tôi", "en": "About" },
-    "contact": { "vi": "Kết nối ↗", "en": "Say hello ↗" }
+    "contact": { "vi": "Kết nối ↗︎", "en": "Say hello ↗︎" }
   },
   "hero": {
     "eyebrow": "WELCOME TO MY EDITING ROOM",
@@ -44,7 +44,7 @@
       "vi": "Short video, long-form và documentary–storytelling là thế mạnh của tôi. Thiết kế và quay phim cho tôi thêm góc nhìn khi làm việc với hình ảnh.",
       "en": "Short-form, long-form and documentary storytelling are my strengths. Design and videography bring another perspective to how I work with images."
     },
-    "linkText": { "vi": "Một chút về công việc của tôi ↗", "en": "A little more about my work ↗" },
+    "linkText": { "vi": "Một chút về công việc của tôi ↗︎", "en": "A little more about my work ↗︎" },
     "linkUrl": "https://www.upwork.com/freelancers/~019d26d11d8a0f7aab?mp_source=share"
   },
   "work": {
@@ -91,8 +91,7 @@
     "question": { "vi": "Có một câu chuyện trong đầu?", "en": "Got a story in mind?" },
     "callToAction": "Let's <em>talk.</em>",
     "email": "milkwork.mp4@gmail.com",
-    "emailLink": "mailto:milkwork.mp4@gmail.com",
-    "note": { "vi": "Cám ơn rất nhiều vì đã xem hết :3.", "en": "Thanks for scrolling this far." }
+    "emailLink": "mailto:milkwork.mp4@gmail.com"
   },
   "footer": {
     "owner": "NGUYỄN TIẾN HUY",
