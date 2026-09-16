@@ -62,10 +62,19 @@ motionButton.addEventListener('click',()=>{paused=!paused;updateMotion()});
 reduced.addEventListener('change',event=>{paused=event.matches;updateMotion()});
 
 const progress=document.querySelector('.progress');
+const siteHeader=document.querySelector('header');
 let queued=false;
+let lastScrollPosition=scrollY;
 function updateScroll(){
  const max=document.documentElement.scrollHeight-innerHeight;
- progress.style.transform=`scaleX(${max>0?scrollY/max:0})`;
+ const currentScrollPosition=Math.max(0,scrollY);
+ progress.style.transform=`scaleX(${max>0?currentScrollPosition/max:0})`;
+ if(currentScrollPosition<40){
+  siteHeader.classList.remove('header-hidden');
+ }else if(Math.abs(currentScrollPosition-lastScrollPosition)>7){
+  siteHeader.classList.toggle('header-hidden',currentScrollPosition>lastScrollPosition);
+  lastScrollPosition=currentScrollPosition;
+ }
  queued=false;
 }
 addEventListener('scroll',()=>{if(!queued){queued=true;requestAnimationFrame(updateScroll)}},{passive:true});
